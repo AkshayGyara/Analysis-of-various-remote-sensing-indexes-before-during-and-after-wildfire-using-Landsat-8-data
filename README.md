@@ -1,0 +1,1 @@
+# Analysis-of-various-remote-sensing-indexes-before-during-and-after-wildfire-using-Landsat-8-data
